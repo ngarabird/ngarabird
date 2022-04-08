@@ -1,8 +1,5 @@
 - Hi, I’m Ngara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ngarabird/ngarabird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
